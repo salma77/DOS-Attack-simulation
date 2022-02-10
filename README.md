@@ -3,6 +3,10 @@ Simulating DoS Attack by detecting it first, then preventing it. Detection is ac
 
 ## Dependencies
 you must make sure that python 3.9 is installed <br>
-```sudo apt install python3.9```<br>
+```
+sudo apt install python3.9
+```<br>
 then install scapy package <br>
-```pip install -U scapy.all```<br>
+```
+pip install -U scapy.all
+```<br>
