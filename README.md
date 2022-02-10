@@ -10,3 +10,8 @@ then install scapy package
 ```
 pip install -U scapy.all
 ```
+## Notes
+- you must make sure that script files have execute priviliges by running
+```
+chmod +x scriptname
+```
